@@ -1,2 +1,2 @@
-# Criminal-Private-Investigation-by-A.-Pal
-Contains works related to cases under the private investigation agency. 
+
+Contains scripts related to cases under the private investigation agency owned by Asmak Pal. 
