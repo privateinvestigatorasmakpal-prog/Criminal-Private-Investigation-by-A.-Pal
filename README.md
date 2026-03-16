@@ -1,2 +1,1 @@
-# Criminal-Private-Investigation-by-A.-Pal
-Contains works related to cases under the private investigation agency. 
+Here, in this repository, owned by Private Investigator Asmak Pal, you will find scripts he used to solve the cases taken by his agency (Criminal Private Investigation by A. Pal). But he will release a script only if he determines it is the right time to do it. The Private Investigation Agency like others, provides secret services, and hence, script(s) related to such services will not be made public until the confidentiality expires. 
